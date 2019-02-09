@@ -11,13 +11,13 @@
 - Although I had some problem with the keyframes, yet I figured it out by following some tutorials and finished my project within time.
 
 ## Lessons Learned
-- Understanding of tools and techniques of Adobe After Effects.
-- Learned how to create effective and attractive titles for photos and videos.
-- Was able to create a tutorial for a novice showing title animation.
+- I got much more understanding of tools and techniques of Adobe After Effects.
+- I learned how to create effective and attractive titles for photos and videos.
+- I was able to create a tutorial for a novice showing title animation.
 
 ## Unexpected Challenges
 - Earlier I faced some difficulty working with the keyframes but later learned how to set them up by getting help from the tutorials.
 
 ## Future Work
 - I can use the tools of Adobe After Effects for designing in future.
-- Refining the title animation
+- I can now create more attractive titles by exploring more animaitions and effects.

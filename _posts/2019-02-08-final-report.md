@@ -18,5 +18,6 @@
 ## Unexpected Challenges
 - Earlier I faced some difficulty working with the keyframes but later learned how to set them up by getting help from the tutorials.
 
-## Tutorial Assets
-[]()
+## Future Work
+- I can use the tools of Adobe After Effects for designing in future.
+- Refining the title animation

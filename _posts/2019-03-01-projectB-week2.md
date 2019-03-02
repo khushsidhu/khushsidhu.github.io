@@ -7,4 +7,4 @@ As I am going to design the prototypes using Figma, this week I decided that the
 I have not faced much difficulty until now because I have just researched about various tools of Figma and started with the designing of the prototypes.
 
 ## Plan for next week
-Next week I will start creating the designs using Figma. I would create splash screen, login and sign up screen, home and try to continue designing other pages of the application.
+Next week I will start creating the designs using Figma. I would create designs of splash screen, login and sign up screen, home and try to continue designing other pages of the application.

@@ -7,4 +7,4 @@ This week I designed a logo for the magazine which would be used for the mobile 
 I faced some difficulty in using the scale tool because Figma doesn't allow us to manually enter the numeric values while scaling the components.
 
 ## Plan for next week
-Next week I am planning to design other pages of the magazine such as categories and article pages.
+Next week I am planning to design other pages of the magazine such as categories and article pages. I would refer more tutorials and explore other tools of Figma.

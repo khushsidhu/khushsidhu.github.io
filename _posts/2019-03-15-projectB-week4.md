@@ -1,7 +1,7 @@
 # [Week-4]({% post_url 2019-03-15-projectB-week4 %})
 
 ## Accomplishments
-This week I finished designing the homepage and also desgined other pages such as Favourite articles and Following. I explored various tools of Figma including Components and Boolean Groups while designing these prototypes.
+This week I finished designing the homepage and also desgined other pages such as Favourite articles, Following and Menus. I explored various tools of Figma including Components and Boolean Groups while designing these prototypes.
 
 ## Problems
 I did not face any major difficulty as I have been quite familiar with Figma until now. Moreover, I followed numerous tutorials which helped me in clearing my doubts about the tools of Figma.

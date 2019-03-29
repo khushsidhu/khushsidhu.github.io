@@ -51,7 +51,7 @@
 
   - Article: 
 
-  [https://theculturetrip.com/north-america/canada/articles/20-must-visit-attractions-in-vancouver/(https://theculturetrip.com/north-america/canada/articles/20-must-visit-attractions-in-vancouver/)
+  [https://theculturetrip.com/north-america/canada/articles/20-must-visit-attractions-in-vancouver/](https://theculturetrip.com/north-america/canada/articles/20-must-visit-attractions-in-vancouver/)
 
   - Tutorials:
 

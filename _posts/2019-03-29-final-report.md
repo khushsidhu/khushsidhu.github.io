@@ -24,7 +24,6 @@
 
 ## References
 - Navigation icons:
-
 https://material.io/tools/icons/?style=baseline
 
 - Status bar:

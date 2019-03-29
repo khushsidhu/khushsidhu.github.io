@@ -34,7 +34,7 @@
 https://iosdesignkit.io/ios-11-gui/
 
 - Photos:
-[https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/] (https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/)
+[https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/](https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/)
 https://www.pexels.com/photo/silhouette-of-person-walking-1046896/
 https://www.pexels.com/photo/man-doing-ice-skiing-on-snow-field-in-shallow-focus-photography-848618/
 https://www.pexels.com/photo/burrito-chicken-delicious-dinner-461198/

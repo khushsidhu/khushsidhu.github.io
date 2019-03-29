@@ -22,6 +22,9 @@
 - After completing my project, I concluded that Figma can be very useful for me in my future. I can use Figma for designing the interface of any website or mobile application.
 - Figma can also be used for prototyping in a project by creating flows between the designs.
 
+## Prototype
+https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project
+
 ## References
 - Navigation icons:
 https://material.io/tools/icons/?style=baseline

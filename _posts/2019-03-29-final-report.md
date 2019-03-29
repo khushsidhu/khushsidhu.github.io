@@ -23,7 +23,7 @@
 - Figma can also be used for prototyping in a project by creating flows between the designs.
 
 ## Prototype
-[https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project]
+[https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project](https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project)
 
 ## References
 - Navigation icons:

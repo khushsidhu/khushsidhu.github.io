@@ -13,7 +13,7 @@
 ## Lessons Learned
 - I got understanding of the tools of a new designing tool- Figma. 
 - I learned how to design the interface of a mobile application and how to create interactive flows that tells how a user can interact with those designs. 
-- I learned how to create an effective presentation about tool and prototype which are new to the listeners.
+- I learned how to create an effective presentation about a software which are new to the listeners.
 
 ## Unexpected Challenges
 - In the beginning of my project, I faced some difficulty in getting used to the tools of Figma such as working with components and creating overlay menu. But tutorials on these helped a lot and I was able to effectively use them in my project.

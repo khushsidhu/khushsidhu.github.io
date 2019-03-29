@@ -27,7 +27,8 @@
 
 ## References
 - Navigation icons:
-[https://material.io/tools/icons/?style=baseline]
+
+[https://material.io/tools/icons/?style=baseline](https://material.io/tools/icons/?style=baseline)
 
 - Status bar:
 https://iosdesignkit.io/ios-11-gui/

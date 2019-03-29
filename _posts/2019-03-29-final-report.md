@@ -1,4 +1,4 @@
-# [Final Report]({% post_url 2019-03-29-final-report %})
+# [Project-B Final Report]({% post_url 2019-03-29-final-report %})
 
 ## Things I Did This Week
    - This week I made few improvements to the design and prototypes of the magazine application. 

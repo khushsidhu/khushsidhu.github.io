@@ -23,11 +23,11 @@
 - Figma can also be used for prototyping in a project by creating flows between the designs.
 
 ## Prototype
-https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project
+[https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project]
 
 ## References
 - Navigation icons:
-https://material.io/tools/icons/?style=baseline
+[https://material.io/tools/icons/?style=baseline]
 
 - Status bar:
 https://iosdesignkit.io/ios-11-gui/

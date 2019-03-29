@@ -26,7 +26,7 @@
    [https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project](https://www.figma.com/file/GVuwQwNBS4tetOEDjiaiYwml/Project)
    
 ## Instruction to open prototype
-You can open the prototype by simple going to the link provided above. Alternatively, the prototype can be easily open by opening Figma in the browser. You can log in with your Gmail account. Go to Menu icon -> Help and Account -> Account Settings -> Drafts -> Import File. Select the file you want to import.
+You can open the prototype by simple going to the link provided above. Alternatively, the prototype can be easily opened by opening Figma in the browser. You can log in with your Gmail account. Go to Menu icon -> Help and Account -> Account Settings -> Drafts -> Import File. Select the file you want to import.
 
 ## References
    - Navigation icons:

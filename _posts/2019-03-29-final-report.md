@@ -30,6 +30,7 @@ You can open the prototype by simple going to the link provided above. Alternati
 
 ## References
    - Design idea:
+   
    [https://flipboard.com/](https://flipboard.com/)
    
    - Icons:

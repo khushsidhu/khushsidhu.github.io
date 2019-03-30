@@ -29,14 +29,14 @@
 You can open the prototype by simple going to the link provided above. Alternatively, the prototype can be easily opened by opening Figma in the browser. You can log in with your Gmail account. Go to Menu icon -> Help and Account -> Account Settings -> Drafts -> Import File. Select the file you want to import.
 
 ## References
-   - Design:
+   - Design idea:
    [https://flipboard.com/](https://flipboard.com/)
    
-   - Navigation icons:
+   - Icons:
 
    [https://material.io/tools/icons/?style=baseline](https://material.io/tools/icons/?style=baseline)
 
-   - Status bar:
+   - Status bar and Search bar:
 
    [https://iosdesignkit.io/ios-11-gui/](https://iosdesignkit.io/ios-11-gui/)
 
